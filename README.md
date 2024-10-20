@@ -82,4 +82,3 @@ Prehľadný záznam o chybách bol dokumentovaný aj v Excel súbore, ktorý je 
 - Skontrolujte, či export funguje a aké údaje obsahuje:
   - Obsahuje textový súbor všetky povinné údaje a formát údajov je správny.
   - Skontrolujte, či po opätovnom načítaní ostali hodnoty nemenné a žiadna nepribudla ani neubudla.
-
